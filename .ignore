@@ -1,0 +1,17 @@
+# Build artifacts and packages
+*.deb
+*.tar.gz
+*.zip
+unix-bg-transfer/
+
+# Downloaded media and test files
+downloads/
+*.part
+*.ytdl
+
+# Logs, temporary, and system files
+*~
+.DS_Store
+.tmux_history
+nohup.out
+*.log
