@@ -1,0 +1,8 @@
+Package: unix-bg-transfer
+Version: 1.0.0
+Architecture: all
+Maintainer: Mohammadamin Andy <mohammadamin.andy@gmail.com>
+Depends: bash, tmux, rclone, wget
+Description: Interactive background downloader and uploader
+ A simple CLI tool to manage file transfers in the background
+ using tmux and rclone with queue and proxy support.
